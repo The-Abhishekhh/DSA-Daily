@@ -13,7 +13,7 @@ The goal isn't simply to solve as many problems as possible. The goal is to buil
 I'm using this repository to consistently practice and strengthen:
 
 - 🧠 Problem-solving
-- 📚 Data Structures &Algorithms
+- 📚 Data Structures & Algorithms
 - 🔍 Pattern recognition
 - ⚡ Time & Space complexity analysis
 - ☕ Java implementation
